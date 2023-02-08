@@ -1,6 +1,8 @@
 # OneDriveSuspender
 OneDriveSuspender creates .bat files to launch applications while suspending OneDrive until those applications are closed.
 
+[Current Release](/releases/tag/v0.1)
+
 # Requirements
 OneDriveSuspender currently requires [pssuspend](https://learn.microsoft.com/en-gb/sysinternals/downloads/pssuspend) to be added to PATH. 
 > I intend for this to be done behind the scenes in later versions.
